@@ -14,7 +14,7 @@
 <body>
     <div class="container mt-3">
         <div class="col">
-            <h2 class="text-center">Data Pelanggan</h2>
+            <h2 class="text-center">Data Pelanggann</h2>
         </div>
         <div class="col text-end">
             <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#tambahPelanggan"><i class="fa-solid fa-cart-plus"></i>Tambah Data</button>
